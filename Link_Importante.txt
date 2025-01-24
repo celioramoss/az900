@@ -1,0 +1,24 @@
+Links Importantes AZ-900
+
+Simulado - AZ900
+
+https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification
+
+
+Microsoft Certified: Azure Fundamentals
+
+https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam
+
+Conteúdo AZ-900
+
+https://learn.microsoft.com/pt-br/training/courses/az-900t00
+
+https://learn.microsoft.com/es-mx/training/paths/azure-fundamentals-describe-azure-architecture-services/
+
+https://learn.microsoft.com/es-mx/training/paths/describe-azure-management-governance/
+
+Simulado com mais 300 perguntas AZ900
+
+https://drive.google.com/file/d/1RsZlGiR44NmKjhfx3bC_GnyLJOnRGvIa/view?usp=sharing
+
+
